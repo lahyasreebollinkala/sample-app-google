@@ -1,0 +1,6 @@
+{
+  "name": "The Tiebreaker",
+  "description": "Make complex decisions easily with structured AI analysis, featuring pros and cons lists, detailed comparison tables, and full SWOT analyses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

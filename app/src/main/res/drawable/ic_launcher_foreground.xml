@@ -1,0 +1,51 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Sophisticated, balanced scales of justice / decision support vector -->
+    <!-- Base Plate -->
+    <path
+        android:fillColor="#21005D"
+        android:pathData="M44,72h20v4H44z" />
+    
+    <!-- Center Pillar -->
+    <path
+        android:fillColor="#6750A4"
+        android:pathData="M52,36h4v36h-4z" />
+    
+    <!-- Main balance beam -->
+    <path
+        android:fillColor="#6750A4"
+        android:pathData="M26,34h56v4H26z" />
+    
+    <!-- Center Hub Pivot -->
+    <path
+        android:fillColor="#21005D"
+        android:pathData="M51,31h6v6h-6z" />
+
+    <!-- Left side pan hanger & hanging chains -->
+    <path
+        android:fillColor="#625B71"
+        android:pathData="M25,36 l7,16 h2 l-7,-16 M27,36 l-7,16 h-2 l7,-16" />
+    <!-- Left Plate bowl -->
+    <path
+        android:fillColor="#21005D"
+        android:pathData="M16,52h22v3H16z" />
+    
+    <!-- Right side pan hanger & hanging chains -->
+    <path
+        android:fillColor="#625B71"
+        android:pathData="M81,36 l7,16 h2 l-7,-16 M83,36 l-7,16 h-2 l7,-16" />
+    <!-- Right Plate bowl -->
+    <path
+        android:fillColor="#21005D"
+        android:pathData="M72,52h22v3H72z" />
+
+    <!-- Decision Needle arrow indicator -->
+    <path
+        android:fillColor="#21005D"
+        android:pathData="M53,21h2v10h-2z" />
+
+</vector>
